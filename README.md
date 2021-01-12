@@ -1,4 +1,6 @@
 # todolist
 
-You can see the demos for the to-do list app in the vedios I have uploaded.
+This is the demo for the to-do list app.
 
+
+![](https://github.com/wenjialu/todolist/blob/main/demo.gif)
